@@ -4,6 +4,8 @@
 
 ![bigduk88's github stats](https://github-readme-stats.vercel.app/api?username=bigduk88&show_icons=true)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bigduk88)](https://solved.ac/bigduk88)
+
 <!--
 **bigduk88/bigduk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
