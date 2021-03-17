@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###🌱 I’m currently learning ...
+🌱 I’m currently learning Spring!!!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bigduk88)](https://hits.seeyoufarm.com)   
 
