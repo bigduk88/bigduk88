@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bigduk88)](https://hits.seeyoufarm.com)   
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bigduk88)](https://solved.ac/bigduk88)
-
 ![bigduk88's github stats](https://github-readme-stats.vercel.app/api?username=bigduk88&show_icons=true)
 
 <!--
